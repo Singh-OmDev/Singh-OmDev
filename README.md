@@ -3,7 +3,7 @@
 Hi there! I'm **Om Singh**, a passionate and curious **Computer Science Engineering student (2nd Year)** who loves building cool and useful web projects 💻.
 
 🔧 I'm currently learning and working with:
-- **Frontend Development** using **React**, **Vite**, **TypeScript**, and **Tailwind CSS**
+- **Frontend Development** using **React**, **Vite**, **java Script**, and **Tailwind CSS**
 - UI frameworks like **ShadCN UI**
 - APIs & Full-Stack concepts (experimenting with **Firebase**, **Supabase**, and AI tools like **Claude API** & **OpenAI**)
 
