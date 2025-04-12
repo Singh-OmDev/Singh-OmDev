@@ -1,12 +1,21 @@
-- 👋 Hi, I’m om singh
-- 👀 I’m interested in .coding..
-- 🌱 I’m currently learning java...
-- 💞️ I’m looking to collaborate on dsa with java ...
-- 📫 How to reach me ...gmail omsingh8400@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👋 About Me
 
-<!---
-Singh-OmDev/Singh-OmDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! I'm **Om Singh**, a passionate and curious **Computer Science Engineering student (2nd Year)** who loves building cool and useful web projects 💻.
+
+🔧 I'm currently learning and working with:
+- **Frontend Development** using **React**, **Vite**, **TypeScript**, and **Tailwind CSS**
+- UI frameworks like **ShadCN UI**
+- APIs & Full-Stack concepts (experimenting with **Firebase**, **Supabase**, and AI tools like **Claude API** & **OpenAI**)
+
+📚 Some of the projects I’ve worked on include:
+- 🔁 [Currency Converter](https://currency-converter-nine-olive.vercel.app/) — A clean, fast, and responsive currency converter app
+- 🎓 AI Study Buddy (in progress) — Helping students with summaries, flashcards, and quiz generation
+- ✈️ Smart Travel Itinerary Planner (in progress) — Generates personalized travel plans using AI
+
+🚀 Always exploring new ideas, solving problems, and aiming to build projects that are both smart and simple.
+
+🌐 Check out my projects here on GitHub or connect with me if you’re into coding, startups, or just geeking out over tech stuff!
+
+---
+
+✨ _"Learning never exhausts the mind — Leonardo da Vinci"_
