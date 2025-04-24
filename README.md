@@ -10,7 +10,7 @@ Hi there! I'm **Om Singh**, a passionate and curious **Computer Science Engineer
 📚 Some of the projects I’ve worked on include:
 - 🔁 [Currency Converter](https://currency-converter-nine-olive.vercel.app/) — A clean, fast, and responsive currency converter app
 - 🎓 AI Study Buddy (in progress) — Helping students with summaries, flashcards, and quiz generation
-- ✈️ Smart Travel Itinerary Planner (in progress) — Generates personalized travel plans using AI
+
 
 🚀 Always exploring new ideas, solving problems, and aiming to build projects that are both smart and simple.
 
