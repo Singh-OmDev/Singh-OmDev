@@ -1,21 +1,41 @@
-## 👋 About Me
+👋 About Me
 
-Hi there! I'm **Om Singh**, a passionate and curious **Computer Science Engineering student (2nd Year)** who loves building cool and useful web projects 💻.
+Hi, I’m Om Singh — a curious and passionate Computer Science Engineering student who loves building meaningful and practical software. I enjoy working across the web stack and experimenting with modern tools and APIs to create clean, responsive, and helpful applications.
 
-🔧 I'm currently learning and working with:
-- **Frontend Development** using **React**, **Vite**, **java Script**, and **Tailwind CSS**
-- UI frameworks like **ShadCN UI**
-- APIs & Full-Stack concepts (experimenting with **Firebase**, **Supabase**, and AI tools like **Claude API** & **OpenAI**)
+I focus on problem-solving, user-focused design, and continuous learning — constantly exploring new ideas and technologies.
 
-📚 Some of the projects I’ve worked on include:
-- 🔁 [Currency Converter](https://currency-converter-nine-olive.vercel.app/) — A clean, fast, and responsive currency converter app
-- 🎓 AI Study Buddy (in progress) — Helping students with summaries, flashcards, and quiz generation
+🚀 Tech Stack
 
+Frontend: React, JavaScript, TypeScript, Vite, Tailwind CSS
 
-🚀 Always exploring new ideas, solving problems, and aiming to build projects that are both smart and simple.
+Routing & UI: React Router, shadcn/ui
 
-🌐 Check out my projects here on GitHub or connect with me if you’re into coding, startups, or just geeking out over tech stuff!
+APIs & Full-Stack Concepts: Firebase, Supabase, REST APIs
 
----
+AI Tools: OpenAI API, Claude API
 
-✨ _"Learning never exhausts the mind — Leonardo da Vinci"_
+🛠 Projects I’ve Built
+
+Here are some highlighted projects from my GitHub that showcase practical applications of my skills:
+
+AI-Government-Scheme-Advisor — A JavaScript project that uses AI to guide users in finding relevant government schemes (pinned on GitHub).
+
+AI-Job-Description — A JS tool that generates optimized job descriptions using AI.
+
+personal-portfolio — My personal portfolio website built with modern web tech to showcase my work.
+
+React-Router-V7-Countries-App — A React app demonstrating dynamic routing and country data UI.
+
+AI-Powered-Flood-Risk-System — A TypeScript project focusing on predictive analytics for flood risk.
+
+🌱 What I’m Learning
+
+Advanced React patterns and state management
+
+Backend workflows & authentication
+
+Production-grade full-stack development
+
+I’m always experimenting with new ideas, refining my craft, and building tools that make life easier — whether that’s for learning, automation, or real world use. I love connecting with fellow devs, startups, and anyone into tech or open source!
+
+“Learning never exhausts the mind.” – Leonardo da Vinci
