@@ -21,7 +21,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 ![C++](https://img.shields.io/badge/C++-blue)
-![Python](https://img.shields.io/badge/Python-yellow)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-blue)
@@ -83,8 +82,8 @@ Developer productivity assistant for coding workflows.
 
 ## 🌐 Connect With Me
 
-💼 **LinkedIn:** https://linkedin.com/in/your-linkedin  
-🌐 **Portfolio:** https://your-portfolio.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/om-singh-devv/
+🌐 **Portfolio:** https://portfoliowebsite-alpha-six.vercel.app/
 📧 **Email:** omsingh8400@gmail.com
 
 ---
