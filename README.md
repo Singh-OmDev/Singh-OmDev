@@ -1,6 +1,20 @@
-Hi, I’m Om Singh 👋  
-A Computer Science Engineering student and Full-Stack & AI Developer passionate about building real-world, scalable, and intelligent web applications.
+# Hi, I'm Om Singh 👋
 
-I enjoy working across the full stack, experimenting with modern technologies, and turning ideas into impactful products. My focus is on clean code, problem-solving, user-centric design, and continuous learning.
+🚀 Full-Stack & AI Developer  
+🎓 Computer Science Engineering Student  
+💻 Building Web Apps, AI Tools, and Developer Platforms  
 
-Currently exploring advanced full-stack architecture, AI integrations, and system design while building meaningful projects.
+## 🔧 Tech Stack
+- JavaScript / TypeScript
+- React / Next.js
+- Node.js / Express
+- MongoDB / PostgreSQL
+- Docker / AWS
+
+## 📌 Featured Projects
+- Study Buddy (AI learning assistant)
+- Government Scheme Advisor (AI recommendation system)
+- ATS Resume Tailor
+- Dev Companion Platform
+
+## 📊 GitHub Stats
