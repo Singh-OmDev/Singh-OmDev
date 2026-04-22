@@ -83,7 +83,7 @@ Developer productivity assistant for coding workflows.
 ## 🌐 Connect With Me
 
 💼 **LinkedIn:** https://www.linkedin.com/in/om-singh-devv/
-🌐 **Portfolio:** https://portfoliowebsite-alpha-six.vercel.app/
+🌐 **Portfolio:** https://om-singh-portfolio.vercel.app/
 📧 **Email:** omsingh8400@gmail.com
 
 ---
